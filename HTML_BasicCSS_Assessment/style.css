@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color:#79b9c6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 90px;
+  font-weight: bolder;
+  color: white;
+}
+
+.textBox {
+  padding: 10px;
+  border: 1px solid white;
+  color: white;
+}
+
+.header {
+  font-weight: bolder;
+  color: white;
+}
+
