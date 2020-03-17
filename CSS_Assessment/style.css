@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+html {
+    height: 100%
+}
+body {
+    min-height: 100%;
+    background-color: white;
+}
+header {
+    margin-bottom: 25px;
+    width: 100%;
+    background-color: #818081;
+}
+section {
+    overflow: auto;
+    clear: both;
+    margin-bottom: 175px;
+    background: white;
+}
+div1 {
+    padding-top: 200px;
+    height: 400px;
+    width: 50%;
+    float: left;
+    background: blue;
+}
+div2 {
+    padding-top: 200px;
+    height: 400px;
+    width: 25%;
+    float: right;
+    background: red;
+}
+footer {
+    width: 100%;
+    background: #028002;
+}
