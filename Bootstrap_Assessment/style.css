@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color:#79b9c6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  text-align: center;
+}
+
+.header {
+  font-weight: bolder;
+  color: white;
+}
+
+#container1 {
+  position: relative;
+  top: 150px;
+}
+
+#row1 {
+  color: red;
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+#row2 {
+  font-size: 90px;
+  font-weight: bolder;
+  color: white;
+}
+
+#row3 {
+  font-size: 16;
+  padding: 10px;
+  border: 1px solid white;
+  color: white;
+}
+
+#row4 {
+  padding: 20px;
+}
+
+
+
