@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+}
+.container {
+    height: 100%;
+    width: 100%;
+}
+#outerRow {
+    height: 100%;
+}
+#innerRow {
+    margin-top: 20px;
+    height: 70%;
+    border: black dashed 4px;
+}
+.col-6 {
+    padding-top: 20px;
+}
+#gameWindow {
+    border-left: black dashed 4px;
+    text-align: center;
+}
